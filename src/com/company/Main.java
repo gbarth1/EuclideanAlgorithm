@@ -6,12 +6,12 @@ public class Main {
     {
         int i = 2;
         int j = 4;
-    
-	    public int recursive(){
+
+	    public int recursive(int p, int q){
 
         }
 
-        public int iteratively(){
+        public int iteratively(int k, int t){
 
         }
     }
